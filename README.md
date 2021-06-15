@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Carlos Silva, I am an IT Analyst, but I hope to become a data scientist soon. I'm passionate about machine learning and all kinds of AI apps.
+
+Majoring in software analysis and development, and I firmly believe that technology can change the world.
+
+- Currently working as a IT Analyst for [SANTANDER](https://www.santander.com.br/)
+- Techs & Tools: Python.
+- How to reach me: crlossantossilva@gmail.com | [LinkedIn](https://www.linkedin.com/in/krlos-silva/)
+- 
 <!--
 **KrlosSilva/KrlosSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
