@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carlos Silva, I am an IT Analyst, but I hope to become a data scientist soon. I'm passionate about machine learning and all kinds of AI apps.
+My name is Carlos Silva, I am an IT Analyst, but I hope to become a data scientist soon. I'm passionate about machine learning and Big Data.
 
 Majoring in software analysis and development, and I firmly believe that technology can change the world.
 
